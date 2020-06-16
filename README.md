@@ -1,3 +1,9 @@
+This teaches basic react ideas like how to create components, reacthooks, and what state/props, JSX are.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
